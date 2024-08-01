@@ -514,7 +514,7 @@ a {
 }
 
 .address {
-    color: #00405D;
+    color: #666666;
     font-size: 16px;
     line-height: 24px;
 
@@ -523,7 +523,7 @@ a {
 .add-hd {
     width: 111px;
     height: 22px;
-    color: #00405D;
+    color: #666666;
     line-height: 22px;
     font-size: 18px;
     font-family: 'Chivo';
@@ -602,7 +602,7 @@ a {
 
 .more-abt-us {
     position: relative;
-    color: 17px;
+    
     color: #ffffff;
     font-family: 'Chivo';
     font-size: 14px;
