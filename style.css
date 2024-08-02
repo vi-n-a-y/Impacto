@@ -859,18 +859,6 @@ margin-bottom: 6px;
         flex-direction: column;
         flex-wrap: wrap;
 
-        /* flex:2; */
-        /* display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows:0.3fr 0.5fr 0.5fr 0.5fr 0.8fr  0.4fr;
-    grid-template-areas: 
-    "ul2"
-    "con-img1"
-     "con-img2" 
-     "con-img3"
-    "con2-img"
-    "foot"; */
-
 
 
     }
@@ -943,32 +931,9 @@ margin-bottom: 6px;
 }
 
 @media(max-width: 1200px) {
-    body {
+    body 
         display: flex;
         flex-wrap: wrap;
     }
 
 }
-
-
-
-
-
-
-/* 
-.thic-line {
-    display: block;
-    position: relative;
-}
-
-.thic-line::after {
-    content: "";
-    display: block;
-    width: 185px;
-    height: 7px;
-    background-color: #c12030;
-    position: absolute;
-    bottom: 0;
-    left: 23px;
-    transform: translateX(10%);
-} */
