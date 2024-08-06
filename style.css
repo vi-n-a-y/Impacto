@@ -588,7 +588,7 @@ a {
         margin-bottom: 30px;
     }
     .impacto-abt::after {
-        content: "";
+        
         position: absolute;
         content: "";
         display: inline;
