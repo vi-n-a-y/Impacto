@@ -960,6 +960,13 @@ input::placeholder {
     padding-right: 110px;
 }
 
+
+
+.vacancies-nav a:hover,.header-cl a:hover{
+    text-decoration: underline;
+    color:var(--secondary);
+    }
+
 /* @media screen and (min-width:250px) {
     body {
         display: flex;

@@ -809,6 +809,12 @@ a {
 }
 
 
+.vacancies-nav a:hover,.header-cl a:hover{
+    text-decoration: underline;
+    color:var(--secondary);
+    }
+
+
 
 
 
@@ -1074,22 +1080,14 @@ a {
         background-size: center;
         background-repeat: no-repeat;
         height: auto;
-        margin: 15px 5px;
-       
+        margin: 15px 10px;
+       position:relative;
         max-width: 100%;
     }
 
 
     
-.employer-main-image {
-    background-image: url(./images/employer-main.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: auto;
-    margin: 15px 10px;
-    position: relative;
-    width: 100%;
-}
+
 
 
 .hr-services-btn {
